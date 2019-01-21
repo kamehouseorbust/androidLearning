@@ -1,0 +1,4 @@
+#Sun Jan 20 22:54:58 EST 2019
+base.0=/Users/haydendrussell/androidLearning/Sunset/app/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex
